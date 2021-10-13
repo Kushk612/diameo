@@ -1,0 +1,2 @@
+# diameo
+using react native
